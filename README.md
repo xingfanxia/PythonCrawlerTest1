@@ -12,4 +12,6 @@ This project is based on the Scrapy Web Crawler and used codes from the Scrapy o
 - [ ] Take step further: learning about Scrapy Authentication stuffs to hack moodle 
 
 
+- [ ] Customized file name and file saving path
+
 - [ ] TBD
