@@ -6,10 +6,10 @@ This project is based on the Scrapy Web Crawler and used codes from the Scrapy o
 
 ### To Dos:
 
-* [ ]Better download middleware
+- [ ] Better download middleware
 
 
-* [ ]Take step further: learning about Scrapy Authentication stuffs to hack moodle 
+- [ ] Take step further: learning about Scrapy Authentication stuffs to hack moodle 
 
 
-* [ ]TBD
+- [ ] TBD
